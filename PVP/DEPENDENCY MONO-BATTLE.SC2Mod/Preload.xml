@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Preload>
+<Asset path="assets\textures\ui_battlenet_glue_icons_random_normal.dds" Type="Image"/>
+<Asset path="assets\textures\btn-border-transportslot-filled.dds" Type="Image"/>
+<Actor id="SYSTEM_ActorConfig"/>
+<Behavior id="CritterWander"/>
+<Behavior id="Detector13p75"/>
+<Behavior id="InfestedTerranTimedLife"/>
+<Behavior id="ParasiticBomb"/>
+<Behavior id="Monobattle"/>
+<Race id="UED"/>
+<Race id="Dragon"/>
+<Race id="NHbr"/>
+<Unit id="InfestorTerranBurrowed"/>
+<Unit id="Broodling"/>
+<Unit id="ScourgeMP"/>
+<Unit id="BeaconUED"/>
+<Unit id="InfestedCaster"/>
+<Unit id="MonobattlePlayer"/>
+</Preload>
