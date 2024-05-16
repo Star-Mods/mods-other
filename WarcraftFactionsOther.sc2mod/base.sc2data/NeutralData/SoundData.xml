@@ -1,0 +1,209 @@
+<Catalog>
+
+    <CSound id="GnollWhat" parent="Voice"><ReverbBalance Room="-800"/><AssetArray File="Assets\Sounds\Units\Creeps\Gnoll\GnollWhat1.ogg"/><AssetArray File="Assets\Sounds\Units\Creeps\Gnoll\GnollWhat2.ogg"/><AssetArray File="Assets\Sounds\Units\Creeps\Gnoll\GnollWhat3.ogg"/><ResourcePriority value="232"/></CSound>
+    <CSound id="GnollKingWhat" parent="Voice"><ReverbBalance Room="-300"/><AssetArray File="Assets\Sounds\Units\Creeps\Gnoll\GnollWhat1.ogg"/><AssetArray File="Assets\Sounds\Units\Creeps\Gnoll\GnollWhat2.ogg"/><AssetArray File="Assets\Sounds\Units\Creeps\Gnoll\GnollWhat3.ogg"/><ResourcePriority value="232"/></CSound>
+    <CSound id="GnollArcherWhat" parent="Voice"><ReverbBalance Room="-800"/><AssetArray File="Assets\Sounds\Units\Creeps\GnollArcher\GnollArcherWhat1.ogg"/><AssetArray File="Assets\Sounds\Units\Creeps\GnollArcher\GnollArcherWhat2.ogg"/><AssetArray File="Assets\Sounds\Units\Creeps\GnollArcher\GnollArcherWhat3.ogg"/><ResourcePriority value="232"/></CSound>
+    <CSound id="HarpyWhat" parent="Voice"><ReverbBalance Room="-800"/><AssetArray File="Assets\Sounds\Units\Creeps\Harpy\HarpyWhat1.ogg"/><AssetArray File="Assets\Sounds\Units\Creeps\Harpy\HarpyWhat2.ogg"/><ResourcePriority value="232"/></CSound>
+    <CSound id="IceTrollWhat" parent="Voice"><ReverbBalance Room="-800"/><AssetArray File="Assets\Sounds\Units\Creeps\IceTroll\IceTrollWhat1.ogg"/><AssetArray File="Assets\Sounds\Units\Creeps\IceTroll\IceTrollWhat2.ogg"/><AssetArray File="Assets\Sounds\Units\Creeps\IceTroll\IceTrollWhat3.ogg"/><AssetArray File="Assets\Sounds\Units\Creeps\IceTroll\IceTrollWhat4.ogg"/><AssetArray File="Assets\Sounds\Units\Creeps\IceTroll\IceTrollWhat5.ogg"/><ResourcePriority value="232"/></CSound>
+    <CSound id="IceTrollShadowPriestWhat" parent="Voice"><ReverbBalance Room="-800"/><AssetArray File="Assets\Sounds\Units\Creeps\IceTroll\IceTrollWhat1.ogg"/><AssetArray File="Assets\Sounds\Units\Creeps\IceTroll\IceTrollWhat2.ogg"/><AssetArray File="Assets\Sounds\Units\Creeps\IceTroll\IceTrollWhat3.ogg"/><AssetArray File="Assets\Sounds\Units\Creeps\IceTroll\IceTrollWhat4.ogg"/><AssetArray File="Assets\Sounds\Units\Creeps\IceTroll\IceTrollWhat5.ogg"/><ResourcePriority value="232"/></CSound>
+    <CSound id="IronGolemWhat" parent="Voice"><ReverbBalance Room="-800"/><AssetArray File="Assets\Sounds\Units\Creeps\IronGolem\IronGolemWhat1.ogg"/><AssetArray File="Assets\Sounds\Units\Creeps\IronGolem\IronGolemWhat2.ogg"/><AssetArray File="Assets\Sounds\Units\Creeps\IronGolem\IronGolemWhat3.ogg"/><ResourcePriority value="232"/></CSound>
+    <CSound id="KoboldWhat" parent="Voice"><ReverbBalance Room="-800"/><AssetArray File="Assets\Sounds\Units\Creeps\Kobold\KoboldWhat1.ogg"/><AssetArray File="Assets\Sounds\Units\Creeps\Kobold\KoboldWhat2.ogg"/><AssetArray File="Assets\Sounds\Units\Creeps\Kobold\KoboldWhat3.ogg"/><ResourcePriority value="232"/></CSound>
+    <CSound id="MurlocWhat" parent="Voice"><ReverbBalance Room="-800"/><AssetArray File="Assets\Sounds\Units\Creeps\Murloc\MurlocWhat1.ogg"/><AssetArray File="Assets\Sounds\Units\Creeps\Murloc\MurlocWhat2.ogg"/><AssetArray File="Assets\Sounds\Units\Creeps\Murloc\MurlocWhat3.ogg"/><ResourcePriority value="232"/></CSound>
+    <CSound id="NerubianWhat" parent="Voice"><ReverbBalance Room="-800"/><AssetArray File="Assets\Sounds\Units\Undead\CryptFiend\CryptFiendWhat1.ogg"/><AssetArray File="Assets\Sounds\Units\Undead\CryptFiend\CryptFiendWhat2.ogg"/><AssetArray File="Assets\Sounds\Units\Undead\CryptFiend\CryptFiendWhat3.ogg"/><ResourcePriority value="232"/></CSound>
+    <CSound id="OgreWhat" parent="Voice"><ReverbBalance Room="-800"/><AssetArray File="Assets\Sounds\Units\Creeps\Ogre\OgreWhat1.ogg"/><AssetArray File="Assets\Sounds\Units\Creeps\Ogre\OgreWhat2.ogg"/><AssetArray File="Assets\Sounds\Units\Creeps\Ogre\OgreWhat3.ogg"/><AssetArray File="Assets\Sounds\Units\Creeps\Ogre\OgreWhat4.ogg"/><ResourcePriority value="232"/></CSound>
+    <CSound id="OgreOneHeadWhat" parent="Voice"><ReverbBalance Room="-800"/><AssetArray File="Assets\Sounds\Units\Creeps\Ogre\OgreWhat1.ogg"/><AssetArray File="Assets\Sounds\Units\Creeps\Ogre\OgreWhat3.ogg"/><ResourcePriority value="232"/></CSound>
+    <CSound id="OwlbearWhat" parent="Voice"><ReverbBalance Room="-800"/><AssetArray File="Assets\Sounds\Units\Creeps\Owlbear\OwlBearWhat1.ogg"/><AssetArray File="Assets\Sounds\Units\Creeps\Owlbear\OwlBearWhat2.ogg"/><ResourcePriority value="232"/></CSound>
+    <CSound id="BeastmasterWhat" parent="Voice"><ReverbBalance Room="-300"/><AssetArray File="Assets\Sounds\Units\Creeps\Beastmaster\OgreBeastMasterWhat1.ogg"/><AssetArray File="Assets\Sounds\Units\Creeps\Beastmaster\OgreBeastMasterWhat2.ogg"/><AssetArray File="Assets\Sounds\Units\Creeps\Beastmaster\OgreBeastMasterWhat3.ogg"/><AssetArray File="Assets\Sounds\Units\Creeps\Beastmaster\OgreBeastMasterWhat4.ogg"/><AssetArray File="Assets\Sounds\Units\Creeps\Beastmaster\OgreBeastMasterWhat5.ogg"/><ResourcePriority value="232"/></CSound>
+    <CSound id="GrizzlyBearWhat" parent="Voice"><ReverbBalance Room="-300"/><AssetArray File="Assets\Sounds\Units\Creeps\GrizzlyBear\GrizzlyBearWhat1.ogg"/><AssetArray File="Assets\Sounds\Units\Creeps\GrizzlyBear\GrizzlyBearWhat2.ogg"/><AssetArray File="Assets\Sounds\Units\Creeps\GrizzlyBear\GrizzlyBearWhat3.ogg"/><ResourcePriority value="232"/></CSound>
+    <CSound id="PandarenBrewmasterWhat" parent="Voice"><ReverbBalance Room="-300"/><AssetArray File="Assets\Sounds\Units\Creeps\PandarenBrewmaster\PandarenBrewmasterWhat1.ogg"/><AssetArray File="Assets\Sounds\Units\Creeps\PandarenBrewmaster\PandarenBrewmasterWhat2.ogg"/><AssetArray File="Assets\Sounds\Units\Creeps\PandarenBrewmaster\PandarenBrewmasterWhat3.ogg"/><AssetArray File="Assets\Sounds\Units\Creeps\PandarenBrewmaster\PandarenBrewmasterWhat4.ogg"/><ResourcePriority value="232"/></CSound>
+    <CSound id="EarthPandarenBrewmasterWhat" parent="Voice"><ReverbBalance Room="-300"/><AssetArray File="Assets\Sounds\Units\Creeps\EarthPandarenBrewmaster\PandarenBrewmasterEarthWhat1.ogg"/><ResourcePriority value="232"/></CSound>
+    <CSound id="FirePandarenBrewmasterWhat" parent="Voice"><ReverbBalance Room="-300"/><AssetArray File="Assets\Sounds\Units\Creeps\FirePandarenBrewmaster\PandarenBrewmasterFireWhat1.ogg"/><ResourcePriority value="232"/></CSound>
+    <CSound id="StormPandarenBrewmasterWhat" parent="Voice"><ReverbBalance Room="-300"/><AssetArray File="Assets\Sounds\Units\Creeps\StormPandarenBrewmaster\PandarenBrewmasterStormWhat1.ogg"/><ResourcePriority value="232"/></CSound>
+    <CSound id="FacelessOneWhat" parent="Voice"><ReverbBalance Room="-800"/><AssetArray File="Assets\Sounds\Units\Creeps\FacelessOne\FacelessOneWhat1.ogg"/><AssetArray File="Assets\Sounds\Units\Creeps\FacelessOne\FacelessOneWhat2.ogg"/><ResourcePriority value="232"/></CSound>
+    <CSound id="TrollBatriderWhat" parent="Voice"><ReverbBalance Room="-800"/><AssetArray File="Assets\Sounds\Units\Orc\BatTroll\TrollbatriderWhat1.ogg"/><AssetArray File="Assets\Sounds\Units\Orc\BatTroll\TrollbatriderWhat2.ogg"/><AssetArray File="Assets\Sounds\Units\Orc\BatTroll\TrollbatriderWhat3.ogg"/><AssetArray File="Assets\Sounds\Units\Orc\BatTroll\TrollbatriderWhat4.ogg"/><AssetArray File="Assets\Sounds\Units\Orc\BatTroll\TrollbatriderWhat5.ogg"/><ResourcePriority value="232"/></CSound>
+    <CSound id="ArachnathidWhat" parent="Voice"><ReverbBalance Room="-800"/><AssetArray File="Assets\Sounds\Units\Creeps\Archnathid\ArachnathidWhat1.ogg"/><AssetArray File="Assets\Sounds\Units\Creeps\Archnathid\ArachnathidWhat2.ogg"/><ResourcePriority value="232"/></CSound>
+    <CSound id="RockGolemWhat" parent="Voice"><ReverbBalance Room="-800"/><AssetArray File="Assets\Sounds\Units\Creeps\RockGolem\RockGolemWhat1.ogg"/><AssetArray File="Assets\Sounds\Units\Creeps\RockGolem\RockGolemWhat2.ogg"/><ResourcePriority value="232"/></CSound>
+    <CSound id="FrostWyrmWhat" parent="Voice"><ReverbBalance Room="-800"/><AssetArray File="Assets\Sounds\Units\Undead\FrostWyrm\FrostwyrmWhat1.ogg"/><AssetArray File="Assets\Sounds\Units\Undead\FrostWyrm\FrostwyrmWhat2.ogg"/><AssetArray File="Assets\Sounds\Units\Undead\FrostWyrm\FrostwyrmWhat3.ogg"/><ResourcePriority value="232"/></CSound>
+    <CSound id="SkeletonWhat" parent="Voice"><ReverbBalance Room="-800"/><AssetArray File="Assets\Sounds\Units\Undead\Skeleton\SkeletonWhat1.ogg"/><AssetArray File="Assets\Sounds\Units\Undead\Skeleton\SkeletonWhat2.ogg"/><AssetArray File="Assets\Sounds\Units\Undead\Skeleton\SkeletonWhat3.ogg"/><ResourcePriority value="232"/></CSound>
+    <CSound id="SkeletonArcherWhat" parent="Voice"><ReverbBalance Room="-800"/><AssetArray File="Assets\Sounds\Units\Undead\Skeleton\SkeletonWhat1.ogg"/><AssetArray File="Assets\Sounds\Units\Undead\Skeleton\SkeletonWhat2.ogg"/><AssetArray File="Assets\Sounds\Units\Undead\Skeleton\SkeletonWhat3.ogg"/><ResourcePriority value="232"/></CSound>
+    <CSound id="WendigoWhat" parent="Voice"><ReverbBalance Room="-800"/><AssetArray File="Assets\Sounds\Units\Creeps\Wendigo\WendigoWhat1.ogg"/><AssetArray File="Assets\Sounds\Units\Creeps\Wendigo\WendigoWhat2.ogg"/><AssetArray File="Assets\Sounds\Units\Creeps\Wendigo\WendigoWhat3.ogg"/><ResourcePriority value="232"/></CSound>
+    <CSound id="SpiderWhat" parent="Voice"><ReverbBalance Room="-800"/><AssetArray File="Assets\Sounds\Units\Creeps\Spider\SpiderWhat1.ogg"/><AssetArray File="Assets\Sounds\Units\Creeps\Spider\SpiderWhat2.ogg"/><ResourcePriority value="232"/></CSound>
+    <CSound id="MagnataurWhat" parent="Voice"><ReverbBalance Room="-300"/><AssetArray File="Assets\Sounds\Units\Creeps\Magnataur\MagnataurWhat1.ogg"/><AssetArray File="Assets\Sounds\Units\Creeps\Magnataur\MagnataurWhat2.ogg"/><AssetArray File="Assets\Sounds\Units\Creeps\Magnataur\MagnataurWhat3.ogg"/><ResourcePriority value="232"/></CSound>
+    <CSound id="TuskarrWhat" parent="Voice"><ReverbBalance Room="-800"/><AssetArray File="Assets\Sounds\Units\Creeps\tuskar\TuskarrWhat1.ogg"/><AssetArray File="Assets\Sounds\Units\Creeps\tuskar\TuskarrWhat2.ogg"/><ResourcePriority value="232"/></CSound>
+    <CSound id="GiantSeaTurtleWhat" parent="Voice"><ReverbBalance Room="-800"/><AssetArray File="Assets\Sounds\Units\Creeps\GiantSeaTurtle\GiantSeaTurtleWhat1.ogg"/><AssetArray File="Assets\Sounds\Units\Creeps\GiantSeaTurtle\GiantSeaTurtleWhat2.ogg"/><ResourcePriority value="232"/></CSound>
+    <CSound id="BanditWhat" parent="Voice"><ReverbBalance Room="-800"/><AssetArray File="Assets\Sounds\Units\Creeps\Bandit\BanditWhat1.ogg"/><AssetArray File="Assets\Sounds\Units\Creeps\Bandit\BanditWhat2.ogg"/><AssetArray File="Assets\Sounds\Units\Creeps\Bandit\BanditWhat3.ogg"/><ResourcePriority value="232"/></CSound>
+    <CSound id="ForestTrollWhat" parent="Voice"><ReverbBalance Room="-800"/><AssetArray File="Assets\Sounds\Units\Creeps\ForestTroll\ForestTrollWhat1.ogg"/><AssetArray File="Assets\Sounds\Units\Creeps\ForestTroll\ForestTrollWhat2.ogg"/><AssetArray File="Assets\Sounds\Units\Creeps\ForestTroll\ForestTrollWhat3.ogg"/><AssetArray File="Assets\Sounds\Units\Creeps\ForestTroll\ForestTrollWhat4.ogg"/><ResourcePriority value="232"/></CSound>
+    <CSound id="ForestTrollShadowPriestWhat" parent="Voice"><ReverbBalance Room="-800"/><AssetArray File="Assets\Sounds\Units\Creeps\ForestTroll\ForestTrollWhat1.ogg"/><AssetArray File="Assets\Sounds\Units\Creeps\ForestTroll\ForestTrollWhat2.ogg"/><AssetArray File="Assets\Sounds\Units\Creeps\ForestTroll\ForestTrollWhat3.ogg"/><AssetArray File="Assets\Sounds\Units\Creeps\ForestTroll\ForestTrollWhat4.ogg"/><ResourcePriority value="232"/></CSound>
+    <CSound id="FurbolgWhat" parent="Voice"><ReverbBalance Room="-800"/><AssetArray File="Assets\Sounds\Units\Creeps\Furbolg\FurbolgWhat1.ogg"/><AssetArray File="Assets\Sounds\Units\Creeps\Furbolg\FurbolgWhat2.ogg"/><AssetArray File="Assets\Sounds\Units\Creeps\Furbolg\FurbolgWhat3.ogg"/><ResourcePriority value="232"/></CSound>
+    <CSound id="TrollBurrowWhat" parent="Voice"><ReverbBalance Room="-800"/><AssetArray File="Assets\Sounds\Buildings\Orc\TrollBurrow\OrcBurrowWhat1.ogg"/><ResourcePriority value="232"/></CSound>
+    <CSound id="TrollBurrowReinforcedWhat" parent="Voice"><ReverbBalance Room="-800"/><AssetArray File="Assets\Sounds\Buildings\Orc\TrollBurrow\OrcReinforcedBurrowWhat1.ogg"/><ResourcePriority value="232"/></CSound>
+    <CSound id="SatyrWhat" parent="Voice"><ReverbBalance Room="-800"/><AssetArray File="Assets\Sounds\Units\Creeps\Satyr\SatyreWhat1.ogg"/><AssetArray File="Assets\Sounds\Units\Creeps\Satyr\SatyreWhat2.ogg"/><AssetArray File="Assets\Sounds\Units\Creeps\Satyr\SatyreWhat3.ogg"/><ResourcePriority value="232"/></CSound>
+    <CSound id="CentaurWhat" parent="Voice"><ReverbBalance Room="-800"/><AssetArray File="Assets\Sounds\Units\Creeps\Centaur\CentaurWhat1.ogg"/><AssetArray File="Assets\Sounds\Units\Creeps\Centaur\CentaurWhat2.ogg"/><AssetArray File="Assets\Sounds\Units\Creeps\Centaur\CentaurWhat3.ogg"/><ResourcePriority value="232"/></CSound>
+    <CSound id="CentaurArcherWhat" parent="Voice"><ReverbBalance Room="-800"/><AssetArray File="Assets\Sounds\Units\Creeps\CentaurArcher\CentaurArcherWhat1.ogg"/><AssetArray File="Assets\Sounds\Units\Creeps\CentaurArcher\CentaurArcherWhat2.ogg"/><AssetArray File="Assets\Sounds\Units\Creeps\CentaurArcher\CentaurArcherWhat3.ogg"/><ResourcePriority value="232"/></CSound>
+    <CSound id="GhostWhat" parent="Voice"><ReverbBalance Room="-800"/><AssetArray File="Assets\Sounds\Units\Creeps\BansheeGhost\BansheeGhostWhat1.ogg"/><ResourcePriority value="232"/></CSound>
+    <CSound id="SludgeMonsterWhat" parent="Voice"><ReverbBalance Room="-800"/><AssetArray File="Assets\Sounds\Units\Human\WaterElemental\WaterElementalWhat1.ogg"/><AssetArray File="Assets\Sounds\Units\Human\WaterElemental\WaterElementalWhat2.ogg"/><AssetArray File="Assets\Sounds\Units\Human\WaterElemental\WaterElementalWhat3.ogg"/><AssetArray File="Assets\Sounds\Units\Human\WaterElemental\WaterElementalWhat4.ogg"/><ResourcePriority value="232"/></CSound>
+
+    <CSound id="AlbatrossWhat" parent="Voice">
+        <ReverbBalance Room="-800"/>
+        <AssetArray File="Assets\Sounds\Units\Critters\Albatross\AlbatrossWhat1.ogg"/>
+        <AssetArray File="Assets\Sounds\Units\Critters\Albatross\AlbatrossWhat2.ogg"/>
+        <ResourcePriority value="232"/>
+    </CSound>
+    <CSound id="PenguinWhat" parent="Voice">
+        <ReverbBalance Room="-800"/>
+        <AssetArray File="Assets\Sounds\Units\Critters\Penguin\PenguinWhat1.ogg"/>
+        <AssetArray File="Assets\Sounds\Units\Critters\Penguin\PenguinWhat2.ogg"/>
+        <ResourcePriority value="232"/>
+    </CSound>
+    <CSound id="PigWhat" parent="Voice">
+        <ReverbBalance Room="-800"/>
+        <AssetArray File="Assets\Sounds\Units\Critters\Pig\PigWhat1.ogg"/>
+        <AssetArray File="Assets\Sounds\Units\Critters\Pig\PigWhat2.ogg"/>
+        <ResourcePriority value="232"/>
+    </CSound>
+    <CSound id="RatWhat" parent="Voice">
+        <ReverbBalance Room="-800"/>
+        <AssetArray File="Assets\Sounds\Units\Critters\Rat\RatWhat1.ogg"/>
+        <AssetArray File="Assets\Sounds\Units\Critters\Rat\RatWhat2.ogg"/>
+        <ResourcePriority value="232"/>
+    </CSound>
+    <CSound id="SealWhat" parent="Voice">
+        <ReverbBalance Room="-800"/>
+        <AssetArray File="Assets\Sounds\Units\Critters\Seal\SealWhat1.ogg"/>
+        <AssetArray File="Assets\Sounds\Units\Critters\Seal\SealWhat2.ogg"/>
+        <ResourcePriority value="232"/>
+    </CSound>
+    <CSound id="SheepWhat" parent="Voice">
+        <ReverbBalance Room="-800"/>
+        <AssetArray File="Assets\Sounds\Units\Critters\Sheep\SheepWhat1.ogg"/>
+        <AssetArray File="Assets\Sounds\Units\Critters\Sheep\SheepWhat2.ogg"/>
+        <ResourcePriority value="232"/>
+    </CSound>
+    <CSound id="FrogWhat" parent="Voice">
+        <ReverbBalance Room="-800"/>
+        <AssetArray File="Assets\Sounds\Units\Critters\Frog\FrogWhat1.ogg"/>
+        <ResourcePriority value="232"/>
+    </CSound>
+    <CSound id="SkinkWhat" parent="Voice">
+        <ReverbBalance Room="-800"/>
+        <AssetArray File="Assets\Sounds\Units\Critters\Skink\SkinkWhat1.ogg"/>
+        <AssetArray File="Assets\Sounds\Units\Critters\Skink\SkinkWhat2.ogg"/>
+        <ResourcePriority value="232"/>
+    </CSound>
+    <CSound id="SnowOwlWhat" parent="Voice">
+        <ReverbBalance Room="-800"/>
+        <AssetArray File="Assets\Sounds\Units\Critters\SnowOwl\OwlWhat1.ogg"/>
+        <AssetArray File="Assets\Sounds\Units\Critters\SnowOwl\OwlWhat2.ogg"/>
+        <ResourcePriority value="232"/>
+    </CSound>
+    <CSound id="VultureWhat" parent="Voice">
+        <ReverbBalance Room="-800"/>
+        <AssetArray File="Assets\Sounds\Units\Critters\Vulture\VultureWhat1.ogg"/>
+        <ResourcePriority value="232"/>
+    </CSound>
+    <CSound id="WolfWhat" parent="Voice">
+        <ReverbBalance Room="-800"/>
+        <AssetArray File="Assets\Sounds\Units\Critters\Wolf\Wolf1.wav"/>
+        <AssetArray File="Assets\Sounds\Units\Critters\Wolf\Wolf2.wav"/>
+        <ResourcePriority value="232"/>
+    </CSound>
+    <CSound id="ChickenWhat" parent="Voice">
+        <ReverbBalance Room="-800"/>
+        <AssetArray File="Assets\Sounds\Units\Critters\EasterChicken\ChickenWhat1.ogg"/>
+        <ResourcePriority value="232"/>
+    </CSound>
+    <CSound id="RaccoonWhat" parent="Voice">
+        <ReverbBalance Room="-800"/>
+        <AssetArray File="Assets\Sounds\Units\Critters\Raccoon\RacoonWhat1.ogg"/>
+        <ResourcePriority value="232"/>
+    </CSound>
+    <CSound id="RabbitWhat" parent="Voice">
+        <ReverbBalance Room="-800"/>
+        <AssetArray File="Assets\Sounds\Units\Critters\EasterRabbit\RabbitWhat1.ogg"/>
+        <ResourcePriority value="232"/>
+    </CSound>
+    <CSound id="VillagerKidWhat" parent="Voice">
+        <ReverbBalance Room="-800"/>
+        <AssetArray File="Assets\Sounds\Units\Critters\VillagerKid\VillagerCWhat1.ogg"/>
+        <AssetArray File="Assets\Sounds\Units\Critters\VillagerKid\VillagerCWhat2.ogg"/>
+        <AssetArray File="Assets\Sounds\Units\Critters\VillagerKid\VillagerCWhat3.ogg"/>
+        <AssetArray File="Assets\Sounds\Units\Critters\VillagerKid\VillagerCWhat4.ogg"/>
+        <AssetArray File="Assets\Sounds\Units\Critters\VillagerKid\VillagerCWhat5.ogg"/>
+        <ResourcePriority value="232"/>
+    </CSound>
+    <CSound id="VillagerWomanWhat" parent="Voice">
+        <ReverbBalance Room="-800"/>
+        <AssetArray File="Assets\Sounds\Units\Critters\VillagerWoman\VillagerF1.wav"/>
+        <AssetArray File="Assets\Sounds\Units\Critters\VillagerWoman\VillagerF2.wav"/>
+        <AssetArray File="Assets\Sounds\Units\Critters\VillagerWoman\VillagerF3.wav"/>
+        <ResourcePriority value="232"/>
+    </CSound>
+    <CSound id="VillagerManWhat" parent="Voice">
+        <ReverbBalance Room="-800"/>
+        <AssetArray File="Assets\Sounds\Units\Critters\VillagerMan\VillagerM1.wav"/>
+        <AssetArray File="Assets\Sounds\Units\Critters\VillagerMan\VillagerM2.wav"/>
+        <AssetArray File="Assets\Sounds\Units\Critters\VillagerMan\VillagerM3.wav"/>
+        <ResourcePriority value="232"/>
+    </CSound>
+    <CSound id="VillagerMan2What" parent="Voice">
+        <ReverbBalance Room="-800"/>
+        <AssetArray File="Assets\Sounds\Units\Critters\VillagerMan1\VillagerMAWhat1.ogg"/>
+        <AssetArray File="Assets\Sounds\Units\Critters\VillagerMan1\VillagerMAWhat2.ogg"/>
+        <AssetArray File="Assets\Sounds\Units\Critters\VillagerMan1\VillagerMAWhat3.ogg"/>
+        <AssetArray File="Assets\Sounds\Units\Critters\VillagerMan1\VillagerMAWhat4.ogg"/>
+        <AssetArray File="Assets\Sounds\Units\Critters\VillagerMan1\VillagerMAWhat5.ogg"/>
+        <AssetArray File="Assets\Sounds\Units\Critters\VillagerMan1\VillagerMAWhat6.ogg"/>
+        <ResourcePriority value="232"/>
+    </CSound>
+    <CSound id="BristlebackWhat" parent="Voice">
+        <ReverbBalance Room="-800"/>
+        <AssetArray File="Assets\Sounds\Units\Creeps\BristleBack\BristlebackWhat1.ogg"/>
+        <AssetArray File="Assets\Sounds\Units\Creeps\BristleBack\BristlebackWhat2.ogg"/>
+        <AssetArray File="Assets\Sounds\Units\Creeps\BristleBack\BristlebackWhat3.ogg"/>
+        <ResourcePriority value="232"/>
+    </CSound>
+    <CSound id="BristlebackYesAttack" parent="Voice">
+        <ReverbBalance Room="-800"/>
+        <AssetArray File="Assets\Sounds\Units\Creeps\BristleBack\BristlebackYesAttack1.ogg"/>
+        <AssetArray File="Assets\Sounds\Units\Creeps\BristleBack\BristlebackYesAttack2.ogg"/>
+        <AssetArray File="Assets\Sounds\Units\Creeps\BristleBack\BristlebackYesAttack3.ogg"/>
+        <ResourcePriority value="232"/>
+    </CSound>
+    <CSound id="BristlebackYes" parent="Voice">
+        <ReverbBalance Room="-800"/>
+        <AssetArray File="Assets\Sounds\Units\Creeps\BristleBack\BristlebackYes1.ogg"/>
+        <AssetArray File="Assets\Sounds\Units\Creeps\BristleBack\BristlebackYes2.ogg"/>
+        <AssetArray File="Assets\Sounds\Units\Creeps\BristleBack\BristlebackYes3.ogg"/>
+        <ResourcePriority value="232"/>
+    </CSound>
+    <CSound id="BristlebackReady" parent="Ready">
+        <ReverbBalance Room="-800"/>
+        <AssetArray File="Assets\Sounds\Units\Creeps\BristleBack\BristlebackWhat1.ogg"/>
+        <ResourcePriority value="232"/>
+    </CSound>
+    <CSound id="QuillBeastWhat" parent="Voice">
+        <ReverbBalance Room="-800"/>
+        <AssetArray File="Assets\Sounds\Units\Creeps\QuillBeast\QuillBoarWhat1.ogg"/>
+        <AssetArray File="Assets\Sounds\Units\Creeps\QuillBeast\QuillBoarWhat2.ogg"/>
+        <ResourcePriority value="232"/>
+    </CSound>
+    <CSound id="LavaSpawnWhat" parent="Voice">
+        <ReverbBalance Room="-300"/>
+        <AssetArray File="Assets\Sounds\Units\Creeps\LavaSpawn\LavaSpawnWhat1.ogg"/>
+        <AssetArray File="Assets\Sounds\Units\Creeps\LavaSpawn\LavaSpawnWhat2.ogg"/>
+        <ResourcePriority value="232"/>
+    </CSound>
+    <CSound id="SeaGiantWhat" parent="Voice">
+        <ReverbBalance Room="-800"/>
+        <AssetArray File="Assets\Sounds\Units\Creeps\SeaGiant\SeaGiantWhat1.ogg"/>
+        <AssetArray File="Assets\Sounds\Units\Creeps\SeaGiant\SeaGiantWhat2.ogg"/>
+        <AssetArray File="Assets\Sounds\Units\Creeps\SeaGiant\SeaGiantWhat3.ogg"/>
+        <ResourcePriority value="232"/>
+    </CSound>
+    <CSound id="UnbrokenWhat" parent="Voice">
+        <ReverbBalance Room="-800"/>
+        <AssetArray File="Assets\Sounds\Units\Creeps\Unbroken\UnbrokenWhat1.ogg"/>
+        <AssetArray File="Assets\Sounds\Units\Creeps\Unbroken\UnbrokenWhat2.ogg"/>
+        <ResourcePriority value="232"/>
+    </CSound>
+</Catalog>

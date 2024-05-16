@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Catalog>
+    <CModel id="HansonWarbot" parent="Unit" Race="Terran">
+        <Model value="Assets\Units\Terran\ARES\ARES.m3"/>
+        <Flags index="AutoUnload" value="1"/>
+        <PlanetPanelCamera value="Star2CameraHigher10"/>
+        <Radius value="1.200000"/>
+        <ScaleMax value="0.800000,0.800000,1.000000"/>
+        <ScaleMin value="0.800000,0.800000,1.000000"/>
+        <SelectionRadius value="1.600000"/>
+        <ShadowRadius value="1.600000"/>
+        <TechPurchaseCamera value="Star2CameraHigher10"/>
+        <UnitGlossaryCamera value="Star2CameraHigher10"/>
+        <EditorCategories value="Race:Hanson"/>
+    </CModel>
+    <CModel id="HansonWarbotDeath" parent="UnitDeath" Race="Terran">
+        <Model value="Assets\Units\Terran\ARESDeath\ARESDeath.m3"/>
+        <Events>
+            <Anim value="Death,00"/>
+            <Name value="Coop_Ares_DieExplo_Death"/>
+            <Type value="Sound"/>
+            <Time value="1.301000"/>
+            <Payload value="Coop_Ares_DieExplo_Death"/>
+        </Events>
+        <Events>
+            <Anim value="Death,00"/>
+            <Name value="Coop_Ares_ExploImpact_Death"/>
+            <Type value="Sound"/>
+            <Time value="0.328000"/>
+            <Payload value="Coop_Ares_ExploImpact_Death"/>
+        </Events>
+        <Events>
+            <Anim value="Death,01"/>
+            <Name value="Coop_Ares_DieExplo_Death"/>
+            <Type value="Sound"/>
+            <Time value="1.301000"/>
+            <Payload value="Coop_Ares_DieExplo_Death"/>
+        </Events>
+        <Events>
+            <Anim value="Death,01"/>
+            <Name value="Coop_Ares_ExploImpact_Death"/>
+            <Type value="Sound"/>
+            <Time value="0.328000"/>
+            <Payload value="Coop_Ares_ExploImpact_Death"/>
+        </Events>
+        <EditorCategories value="Race:Hanson"/>
+    </CModel>
+    <CUnit id="HansonWarbot">
+        <Description value="Button/Tooltip/VoidCoopWarbot321"/>
+        <DeathRevealRadius value="3"/>
+        <Race value="Hanson"/>
+        <FlagArray index="Unclickable" value="0"/>
+        <FlagArray index="Unhighlightable" value="0"/>
+        <FlagArray index="UseLineOfSight" value="1"/>
+        <FlagArray index="ArmySelect" value="1"/>
+        <PlaneArray index="Ground" value="1"/>
+        <Collide index="Ground" value="1"/>
+        <Collide index="Structure" value="1"/>
+        <Collide index="ForceField" value="1"/>
+        <Attributes index="Armored" value="1"/>
+        <Attributes index="Biological" value="1"/>
+        <Attributes index="Mechanical" value="1"/>
+        <Attributes index="Massive" value="1"/>
+        <LifeStart value="600"/>
+        <LifeMax value="600"/>
+        <LifeArmor value="8"/>
+        <LifeArmorName value="Unit/LifeArmorName/TerranVehiclePlating"/>
+        <Speed value="2.25"/>
+        <Acceleration value="1000"/>
+        <LateralAcceleration value="46.0625"/>
+        <Sight value="11"/>
+        <Food value="-6"/>
+        <CostResource index="Minerals" value="300"/>
+        <CostResource index="Vespene" value="350"/>
+        <RepairTime value="41.667"/>
+        <AttackTargetPriority value="20"/>
+        <AbilArray Link="stop"/>
+        <AbilArray Link="attack"/>
+        <AbilArray Link="move"/>
+        <AbilArray Link="WarbotA"/>
+        <AbilArray Link="WarbotB"/>
+        <AbilArray Link="WarbotC"/>
+        <BehaviorArray Link="AllUnitBehaviorController"/>
+        <BehaviorArray Link="StukovInfestedCivilianSpawnBroodlingOnDeath33"/>
+        <BehaviorArray Link="WarbotA"/>
+        <BehaviorArray Link="NoxiousDamageAura6"/>
+        <BehaviorArray Link="HansonUnitEnergyGet"/>
+        <WeaponArray Turret="Warbot"/>
+        <CardLayouts>
+            <LayoutButtons Face="Move" Type="AbilCmd" AbilCmd="move,Move" Row="0" Column="0"/>
+            <LayoutButtons Face="Stop" Type="AbilCmd" AbilCmd="stop,Stop" Row="0" Column="1"/>
+            <LayoutButtons Face="MoveHoldPosition" Type="AbilCmd" AbilCmd="move,HoldPos" Row="0" Column="2"/>
+            <LayoutButtons Face="MovePatrol" Type="AbilCmd" AbilCmd="move,Patrol" Row="0" Column="3"/>
+            <LayoutButtons Face="Attack" Type="AbilCmd" AbilCmd="attack,Execute" Row="0" Column="4"/>
+            <LayoutButtons Face="WarbotA" Type="AbilCmd" AbilCmd="WarbotA,On" Row="2" Column="2"/>
+            <LayoutButtons Face="WarbotC" Type="AbilCmd" AbilCmd="WarbotC,On" Row="2" Column="0"/>
+            <LayoutButtons Face="WarbotB" Type="AbilCmd" AbilCmd="WarbotB,On" Row="2" Column="1"/>
+            <LayoutButtons Face="SOAAutoAssimilator22322" Type="Passive" Row="2" Column="4"/>
+        </CardLayouts>
+        <Radius value="1"/>
+        <SeparationRadius value="1.2"/>
+        <InnerRadius value="1.25"/>
+        <CargoSize value="4"/>
+        <SubgroupPriority value="15"/>
+        <MinimapRadius value="1.2"/>
+        <EditorCategories value="ObjectType:Unit,ObjectFamily:Coop"/>
+        <GlossaryCategory value="Unit/Category/TerranUnits"/>
+        <GlossaryPriority value="345"/>
+        <Fidget>
+            <ChanceArray index="Anim" value="33"/>
+            <ChanceArray index="Idle" value="33"/>
+            <ChanceArray index="Turn" value="33"/>
+        </Fidget>
+    </CUnit>
+</Catalog>

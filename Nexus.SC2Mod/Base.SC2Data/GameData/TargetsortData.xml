@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Catalog>
+<CTargetSortInterruptible id="TSInterruptibleFirst">
+  <WhichUnit Value="Target"/>
+  <Descending value="1"/>
+  <Value value="1"/>
+</CTargetSortInterruptible>
+<CTargetSortBehaviorCount id="UnknownTargetSort">
+  <Behavior value="UnknownBehavior83"/>
+</CTargetSortBehaviorCount>
+<CTargetSortBehaviorCount id="UnknownTargetSort2">
+  <Behavior value="UnknownBehavior84"/>
+</CTargetSortBehaviorCount>
+
+</Catalog>
